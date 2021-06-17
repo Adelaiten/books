@@ -1,0 +1,42 @@
+[{
+    "title":"Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku",
+    "author":"Erich Gamma i in.",
+    "publisher":"Helion",
+    "releaseYear":"1994",
+    "numberOfPages":"376"
+ },
+ {
+    "title":"TDD. Sztuka tworzenia dobrego kodu",
+    "author":"Kent Beck",
+    "publisher":"Helion",
+    "releaseYear":"2000",
+    "numberOfPages":"232"
+ },
+ {
+    "title":"Czysty kod. Podręcznik dobrego programisty",
+    "author":"Robert C. Martin",
+    "publisher":"Helion",
+    "releaseYear":"2008",
+    "numberOfPages":"424"
+ },
+ {
+    "title":"Algorytmy. Ilustrowany przewodnik",
+    "author":"Aditya Bhargava",
+    "publisher":"Helion",
+    "releaseYear":"2017",
+    "numberOfPages":"256"
+ },
+ {
+    "title":"Wzorce projektowe. Rusz głową!",
+    "author":"Freeman Eric i in.",
+    "publisher":"Helion",
+    "releaseYear":"2017",
+    "numberOfPages":"656"
+ },
+ {
+    "title":"Reference Guide Trilogy of Magnetics English",
+    "author":"Thomas Brandner i in.",
+    "publisher":"Swiridoff Verlag",
+    "releaseYear":"2018",
+    "numberOfPages":"704"
+ }]
