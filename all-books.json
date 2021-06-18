@@ -39,4 +39,25 @@
     "publisher":"Swiridoff Verlag",
     "releaseYear":"2018",
     "numberOfPages":"704"
+ },
+ {
+    "title":"Condition Monitoring Algorithms in MATLAB",
+    "author":"Adam Jabłoński",
+    "publisher":"Springer",
+    "releaseYear":"2021",
+    "numberOfPages":"527"
+ },
+ {
+    "title":"Magistrale danych w pojazdach. Protokoły i standardy",
+    "author":"W.Zimmermann, R.Schmidgall",
+    "publisher":"Wydawnictwa Naukowo-Techniczne",
+    "releaseYear":"2008",
+    "numberOfPages":"364"
+ },
+ {
+    "title":"Przewodnik szefa utrzymania ruchu.",
+    "author":"Arkadiusz Burnos i in.",
+    "publisher":"Forum Media Polska",
+    "releaseYear":"2014",
+    "numberOfPages":"120"
  }]
